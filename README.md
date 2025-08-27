@@ -91,8 +91,6 @@
 
 ---
 
-<h3 align="center">⚔️ Code is my weapon. Knowledge is my shield. The repo is my battlefield. ⚔️</h3>
-
 ---
 
 ### 🐍 Contribution Snake
