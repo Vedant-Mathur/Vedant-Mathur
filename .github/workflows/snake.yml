@@ -1,3 +1,42 @@
-- name: generate-snake-game-from-github-contribution-grid
+name: Generate Contribution Snake
 
-  uses: Platane/snk@v3.3.0
+# Trigger workflow manually or on push
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate snake image
+      - name: Generate snake
+        uses: isitreallyalive/snkgen@v3.3.0
+        with:
+          github_user_name: Vedant-Mathur    # Must match your GitHub username exactly
+          outputs: |
+            snake.svg?palette=github-dark&color_snake=00FF00&color_dots=#1b1f23,#0e4429,#006d32,#26a641,#39d353
+
+      # Step 3: Create output folder if it doesn't exist
+      - name: Create output folder
+        run: mkdir -p output
+
+      # Step 4: Move generated snake.svg to output/
+      - name: Move snake.svg to output
+        run: mv snake.svg output/snake.svg
+
+      # Step 5: Commit and push the snake to output branch
+      - name: Commit and push snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'Add contribution snake'
+          add: 'output/snake.svg'
