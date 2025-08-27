@@ -93,8 +93,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/Vedant-Mathur/Vedant-Mathur/main/output/snake.svg)
+
+<!-- ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vedant-Mathur/Vedant-Mathur/main/snake.svg"/>
-</p>
+</p> -->
 
