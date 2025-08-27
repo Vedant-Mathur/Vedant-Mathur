@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Pre-Final+Year+IT+Student+%F0%9F%93%9A;Cybersecurity+Enthusiast+%F0%9F%94%90;Web+Developer+%E2%9A%A1;OSINT+Explorer+%F0%9F%95%B5%EF%B8%8F;Always+learning+new+stuff+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  ![Visitors](https://komarev.com/ghpvc/?username=vedantmathur&label=Profile%20Views&color=0e75b6&style=flat)
+</p>
+
 ---
 
 ### ⚔️ About Me
@@ -32,20 +36,49 @@
 
 ---
 
-### 🛡️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Dev-%E2%9A%A1-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT-%F0%9F%95%B5%EF%B8%8F-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-%F0%9F%93%8A-green?style=for-the-badge" />
-</p>
+### 🛠️ Skills
 
----
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation"/>
-</p>
+#### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+#### Tools / OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+#### Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+#### Others
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ---
 
@@ -59,3 +92,10 @@
 ---
 
 <h3 align="center">⚔️ Code is my weapon. Knowledge is my shield. The repo is my battlefield. ⚔️</h3>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation"/>
+</p>
