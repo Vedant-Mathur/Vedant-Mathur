@@ -1,17 +1,14 @@
 name: Generate Snake Contribution Graph
 
 on:
-  # Runs every day at midnight UTC
   schedule:
     - cron: '0 0 * * *'
-  # Allows manual trigger
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      # Generates the snake files (.svg and .gif)
       - name: Generate Snake Graph
         uses: isitreallyalive/snkgen@v3.3.0
         with:
@@ -21,14 +18,12 @@ jobs:
             snake-light.svg?palette=github-light
             snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Downloads the generated snake files as an artifact
       - name: Download Snake Files
         uses: actions/download-artifact@v4
         with:
           name: snkgen
           path: ./
 
-      # Commits the snake files to your profile repo (Vedant-Mathur/Vedant-Mathur)
       - name: Commit Snake Files
         run: |
           git config --global user.name "github-actions[bot]"
