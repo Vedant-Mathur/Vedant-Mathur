@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Vedant Mathur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Engineer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Web+Developer+%E2%9A%A1;OSINT+Explorer+%F0%9F%95%B5%EF%B8%8F;Always+learning+new+stuff+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F720&center=true&vCenter=true&width=600&lines=Pre-Final+Year+IT+Student+%F0%9F%93%9A;Cybersecurity+Enthusiast+%F0%9F%94%90;Web+Developer+%E2%9A%A1;OSINT+Explorer+%F0%9F%95%B5%EF%B8%8F;Always+learning+new+stuff+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ⚔️ About Me
-- 🧑‍💻 Engineering student at MIT  
+- 📚 Pre-final year IT student at MIT  
 - 🔐 Passionate about **Cybersecurity & OSINT**  
 - 🌐 Building cool **Web Dev projects**  
 - 📊 Exploring **Data + AI** for real-world solutions  
@@ -21,6 +21,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vedantmathur&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmathur&theme=tokyonight" alt="GitHub streak" height="165"/>
+</p>
+
+---
+
+### ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantmathur&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
 </p>
 
 ---
@@ -37,15 +44,17 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation"/>
 </p>
-
 
 ---
 
 ### 🎶 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b4xjs6jvtulnpaex4zu97jm11&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b4xjs6jvtulnpaex4zu97jm11&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false"/>
+  </a>
+</p>
 
 ---
 
