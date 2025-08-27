@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=vedantmathur&label=Profile%20Views&color=0e75b6&style=flat)
+  ![Visitors](https://komarev.com/ghpvc/?username=Vedant-Mathur&label=Profile%20Views&color=0e75b6&style=flat)
 </p>
 
 ---
@@ -23,15 +23,15 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantmathur&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmathur&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Mathur&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Mathur&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
 ---
 
 ### ⚡ Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantmathur&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Mathur&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
 </p>
 
 ---
@@ -97,5 +97,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation"/>
+  <img src="./snake.svg" alt="Snake dark"/>
+  <img src="./snake-light.svg" alt="Snake light"/>
+  <img src="./snake-ocean.gif" alt="Snake ocean"/>
 </p>
