@@ -37,8 +37,9 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/vedantmathur/vedantmathur/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vedantmathur/vedantmathur/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
